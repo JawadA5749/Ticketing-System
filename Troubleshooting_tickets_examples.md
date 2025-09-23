@@ -30,4 +30,38 @@
  - I have a meeting tomorrow. Can you install zoom on my computer?
 
 #### How to handle:
-- For this ticket, simply download and install zoom. Once the zoom installer is downloaded, click on 'Run as different user' and enter your admin credentials.  
+- For this ticket, simply download and install zoom. Once the zoom installer is downloaded, click on 'Run as different user' and enter your admin credentials.
+
+ ### Scenario 6:
+ - Good Morning. Every time I open a pdf file it opens up on edge. I need to open this up on Adobe Acrobat. Thanks.
+
+#### How to handle:
+- Download Adobe Acrobat reader from google (or use deployment apps to deploy the app). After downloading it, simply open the pdf file with Adobe Acrobat.
+
+ ### Scenario 7:
+- Good Morning. I just started today and I need Adobe Creative Cloud on my machine. Can you install adobe creative cloud on my machine? Thanks.
+
+#### How to handle:
+- Simply download Adobe Creative Cloud from google, and then install it as admin.
+
+ ### Scenario 8:
+ - Good Morning. Can you convert my pdf file into a word document? Thanks.
+
+#### How to handle:
+- Right-click on the pdf file and choose to open with Word. Another way to do that is through Adobe. Open the file in Adobe, and go to File. Then click on 'Save as'. Choose a folder and then in the 'Save as type' option, choose Word. Then save the file.
+
+### Scenario 9:
+- My adobe keeps crashing and won’t open any pdf files. Fatal Error: Acrobat Failed to connect to a DDE server. 
+
+#### How to handle:
+- This might happen if a file is clicked on too many times. If this happens, close the Adobe Acrobat from the Task Manager by clicking on End Task. Then reopen the file.
+- Another probable error is the Runtime error. This means Runtime may need to be repaired or installed. Click on 'Help' in Adobe and choose 'Repair Installation' or look up 'c++ runtime download' and download it.
+
+### Scenario 10:
+- Good Morning. I work for the fashion department. Adobe keeps crashing and it won’t let me uninstall it. Thanks.
+
+#### How to handle:
+- If simply uninstalling doesn't work, look up 'creative cloud uninstaller' on google. Run the app after downloading it. This will uninstall all the apps that work with creative cloud. Creative Cloud should be gone now. Reinstall the application if needed.
+
+
+
