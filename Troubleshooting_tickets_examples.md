@@ -63,5 +63,38 @@
 #### How to handle:
 - If simply uninstalling doesn't work, look up 'creative cloud uninstaller' on google. Run the app after downloading it. This will uninstall all the apps that work with creative cloud. Creative Cloud should be gone now. Reinstall the application if needed.
 
+### Scenario 11:
+- Good Afternoon. Can someone remove Adobe Acrobat and focused inbox from my outlook?
+
+#### How to handle:
+- To remove focused inbox, simply click on View on Outlook and uncheck 'Show Focused Inbox'. To remove Adobe Acrobat, go to File, then Options. Then click on Add-ins. Click on 'Go', and from there, uncheck Adobe Acrobat. That should remove it.
+
+### Scenario 12:
+- Good Morning. I have to keep installing stuff on my machine. I got approval for full admin rights. Can you give me admin rights to my computer? Also, can you add me to remote user so I can remote into my machine?
+
+#### How to handle:
+- Go to File Explorer. Then right-click on 'This PC' and click on Properties. Go to 'Advanced system settings'. Click on Remote. Check the 'Allow remote connections to this computer' option and then in 'Select users', you can add the person to it.
+- Go to Computer Management and click on Local Users and Groups. Then go to Groups. From there, double-click on the Administrators group and add the person to the group. 'Remote Desktop Users' group should be in the same place. Double-click on it and add the person to it as well. 
+
+### Scenario 13:
+- Good Morning. I need to do trading today and I noticed I’m missing Bloomberg and the add in on excel. Can you install it for me?
+
+#### How to handle:
+- Download Bloomberg first. Then install it. Install Bloomberg office Add-ins next. After that Bloomberg should be visible when Excel is opened.
+
+### Scenario 14:
+- Good Morning. It’s me again. Can you please install anaconda on my machine?
+
+#### How to handle:
+- Simply download and install Anaconda from google.
+
+### Scenario 14:
+- Good Morning. I’m a software developer and I need to sql on my machine in order to run database services. 
+
+#### How to handle:
+- Download and install SQL studio from google. The software developer can connect to server from there once the installation is done.
+
+  
+
 
 
