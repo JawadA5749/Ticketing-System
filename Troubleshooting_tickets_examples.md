@@ -94,7 +94,29 @@
 #### How to handle:
 - Download and install SQL studio from google. The software developer can connect to server from there once the installation is done.
 
-  
+### Scenario 15:
+- Good Morning. I can’t login to my computer. It says “The trust relationship between this workstation and the primary domain failed.”
 
+#### How to handle:
+- In this case the computer has fallen off the domain. Check the AD users and computers. The computer is not listed there.
+- Log into the computer that is off the domain as local admin. Type in ".\administrator" in the username field.
+- Once logged in, go to the file explorer and right click on "This PC". Select 'properties' and then click on 'change settings'. In the 'Computer Name/Domain Changes' window, put the computer in a Workgroup. The computer should restart after that.
+- Once it reboots, readd it back to the domain that it was in before. It will restart one more time, and after that, the computer should show up in the AD users and computers.  
 
+### Scenario 16:
+- New Hire Request:
+- Start Date: 6-1-2020
+- Status: Full Time
+- Name: Lauren Kelly
+- Title: HR Manager
+- Department: HR
+- Distribution Group: Please add her to HR group. If there’s no group, please create one
+
+- Email: lauren.kelly@test.local
+- Number: xxx-xxx-xxxx
+- Drives: Add her to Personal Drive and HR Drive
+- Special Request: Give her a laptop, docking station, monitor, keyboard, and mouse to work from home. 
+
+#### How to handle:
+- Go to AD users and computers and create a new user account for Lauren Kelly. 
 
