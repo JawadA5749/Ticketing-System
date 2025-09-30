@@ -104,19 +104,6 @@
 - Once it reboots, readd it back to the domain that it was in before. It will restart one more time, and after that, the computer should show up in the AD users and computers.  
 
 ### Scenario 16:
-- New Hire Request:
-- Start Date: 6-1-2020
-- Status: Full Time
-- Name: Lauren Kelly
-- Title: HR Manager
-- Department: HR
-- Distribution Group: Please add her to HR group. If there’s no group, please create one
-
-- Email: lauren.kelly@test.local
-- Number: xxx-xxx-xxxx
-- Drives: Add her to Personal Drive and HR Drive
-- Special Request: Give her a laptop, docking station, monitor, keyboard, and mouse to work from home. 
 
 #### How to handle:
-- Go to AD users and computers and create a new user account for Lauren Kelly. 
 
