@@ -104,6 +104,24 @@
 - Once it reboots, readd it back to the domain that it was in before. It will restart one more time, and after that, the computer should show up in the AD users and computers.  
 
 ### Scenario 16:
+- Good Morning. I’m on vacation and I need someone to set up my out of office reply. Can you please set this up for me? It should say something like this: 
+I’m currently out of office, please contact HR for assistance. 
+Set it up for today until Monday. I should be back at office on Tuesday. Regards, Stacy
 
 #### How to handle:
+- Go to Exchange admin center and under mailboxes, find Stacy and double click on it. Then go to mailbox delegation and under 'Full access', add yourself temporarily. Now go to mail and 
+click on 'Open another mailbox'. Type in Stacy's name. This should allow to open Stacy's mailbox.
+- Now click on the gear icon and go to 'Automatic replies'. Set up the time for when the reply should be sent out and type in the reply message.
+
+### Scenario 17:
+- Good Morning. Aaron is no longer with the company. I want all his emails to forward over to my account. Can you please forward his emails to my account? Regards, Jimmy
+
+#### How to handle:
+- Go to Exchange admin center and under mailboxes, double click on Aaron. Then go to mailbox features. Under Mail Flow, click on 'View details'. Click on the 'Emable forwarding' option and add Jimmy to it.
+
+### Scenario 18:
+- Good Morning. Kevin isn't in our system yet. Can you create a mail contact and add him to our distribution IT support group? Regards, Jimmy
+
+#### How to handle:
+- 
 
